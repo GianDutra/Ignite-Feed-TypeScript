@@ -22,7 +22,7 @@ const posts = [
       { type: 'paragraph', content: 'Acabei de ver o portafólio do Gian Dutra, ficou incrível... parabéns!!!' },
       { type: 'link', content: 'meu-portfolio-giandutra.vercel.app' },
     ],
-    publishedAt: new Date('2023-06-28 20:00:00'),
+    publishedAt: new Date('2023-07-04 15:00:00'),
   },
   {
     id: 2,
@@ -33,10 +33,10 @@ const posts = [
     },
     content: [
       { type: 'paragraph', content: 'Opa pessoal!' },
-      { type: 'paragraph', content: 'Acabei de ver o vídeo publicado pelo Gian sobre o Vtuber Voice, gostei bastante....' },
+      { type: 'paragraph', content: 'Ontem à noite assisti o vídeo publicado pelo Gian sobre o Vtuber Voice, gostei bastante....' },
       { type: 'link', content: 'www.youtube.com/watch?v=43CvhUgiKCs' },
     ],
-    publishedAt: new Date('2023-06-25 20:00:00'),
+    publishedAt: new Date('2023-07-02 20:00:00'),
   }
 ];
 

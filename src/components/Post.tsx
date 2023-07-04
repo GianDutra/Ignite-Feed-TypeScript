@@ -25,7 +25,7 @@ interface PostProps {
 export function Post({author, publishedAt, content }: PostProps) {
 
     const [comments, setComments] = useState([
-      'Post bem legal, parabéns?!'
+      'Obrigado, logo vou fazer mais projetos e conto com seu feedback!'
     ]);
 
     const [newCommentText, setNewCommentText] = useState('')
