@@ -10,9 +10,10 @@
   </a>
   
 
- <a href="https://ignite-timer-rho.vercel.app/">
-    <img alt="ignite-Feed-TypeScript" src="https://img.shields.io/badge/ignite-feed-typescript-%237159c1?style=flat&logo=ghost">
+ <a href="https://ignite-feed-type-script.vercel.app/">
+    <img alt="ignite-feed-typescript" src="https://img.shields.io/badge/ignite-feed-%237159c1?style=flat&logo=ghost">
   </a>
+  
 </p>
 <img src="./.github/1.png" alt="coffee" title="coffee">
 > Projeto desenvolvido durante o Curso Ignite da trilha de ReactJS.
