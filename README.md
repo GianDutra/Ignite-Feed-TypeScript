@@ -15,7 +15,6 @@
   </a>
 </p>
 <img src="./.github/1.png" alt="coffee" title="coffee">
-<img src="./.github/2.png" alt="coffee" title="coffee">
 > Projeto desenvolvido durante o Curso Ignite da trilha de ReactJS.
 
 ## Linguagens e Tecnologias usadas
