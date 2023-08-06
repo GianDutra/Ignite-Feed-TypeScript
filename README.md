@@ -5,13 +5,13 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/GianDutra/Ignite-Feed-TypeScript">
  
- <a href="https://ignite-feed-type-script.vercel.app/">
-    <img alt="Ignite-Feed-TypeScript" src="https://img.shields.io/badge/Ignite-Feed-TypeScript-%237159c1?style=flat&logo=ghost">
+  <a href="https://github.com/GianDutra/coffee-delivery/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/GianDutra/Ignite-Feed-TypeScript">
   </a>
   
 
-  <a href="https://ignite-feed-type-script.vercel.app/">
-    <img alt="Ignite-Feed-TypeScript" src="https://img.shields.io/badge/Ignite-Feed-TypeScript-%237159c1?style=flat&logo=ghost">
+ <a href="https://ignite-timer-rho.vercel.app/">
+    <img alt="ignite-Feed-TypeScript" src="https://img.shields.io/badge/ignite-feed-typescript-%237159c1?style=flat&logo=ghost">
   </a>
 </p>
 <img src="./.github/1.png" alt="coffee" title="coffee">
