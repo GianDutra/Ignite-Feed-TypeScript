@@ -50,7 +50,7 @@ Antes de começar, verifique se você possui instalado:
 $ git clone git@github.com:GianDutra/Ignite-Feed-TypeScript.git
 
 # Acesse a pasta do projeto no seu terminal
-$ cd Ignite-feed
+$ cd Ignite-Feed-TypeScript
 
 # Instale as dependências
 $ npm install
