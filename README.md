@@ -47,7 +47,7 @@ Antes de começar, verifique se você possui instalado:
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:GianDutra/Ignite-Feed-TypeScript.git
+$ git clone https://github.com/GianDutra/Ignite-Feed-TypeScript.git
 
 # Acesse a pasta do projeto no seu terminal
 $ cd Ignite-Feed-TypeScript
